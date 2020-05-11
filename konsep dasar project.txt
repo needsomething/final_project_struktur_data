@@ -1,0 +1,24 @@
+konsep final project struktur data
+
+program ini punya 3 user : 
+1. kasir
+2. pengantar
+3. supervisor
+
+kasir berfungsi sebagai peng-input data2 yang masuk seperti barang2 yg terbeli
+
+pengantar berfungsi untuk mengantar barang
+
+supervisor berfungsi sebagai pengawas berapa banyak barang2 yg terjual hari itu
+
+kasir memiliki fitur2 : stack, search
+	1. input barang
+	2. pengecekan kembali barang apa jadi dipesan
+
+pengantar memiliki fitur2 : stack
+	1. pengantaran barang (dalam menu ini pengantar memvalidasi barang2 mana yg harus diantarkan)
+
+supervisor : sorting
+	1. mengawasi laju barang2 lewat log pengantaran
+
+diawasi pada pertemuan 12 dan 13 struktur data
